@@ -174,7 +174,7 @@ Grupo 6, disciplina **Análise de Projeto Orientado a Objetos (AS33E)**, UTFPR, 
 
 | Nome | Papel |
 |------------|-------|
-| **João Victor da Cruz Silvestre** ([@JnetSilvestre](https://github.com/JnetSilvestre)) | Líder da equipe |
+| **João Victor da Cruz Silvestre** | ([@JnetSilvestre](https://github.com/JnetSilvestre))|
 | Jean Alves Rocha | Integrante |
 | Matheus Muniz Ferreira | Integrante |
 
@@ -182,4 +182,4 @@ Distribuído sob a licença MIT ([`LICENSE`](LICENSE)).
 
 ---
 
-<sub>Sobre este README: o código-fonte e os diagramas são originais de 2022 e não foram alterados. Só este README e a organização da pasta `docs/` foram feitos em 2026, com ajuda de IA, para apresentar o projeto no portfólio.</sub>
+<sub>Sobre este README: o código-fonte e os diagramas são originais de 2022 e não foram alterados. Só este README e a organização da pasta `docs/` foram feitos em 2026, com ajuda de IA para commit, para apresentar o projeto no portfólio.</sub>
